@@ -1,0 +1,22 @@
+.design  h1{
+        color: #e40d0d;
+        background-color: #ffffff;
+        text-align: center;
+        font-family:    Agbalumo, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+        font-size:xx-large;
+}
+.design p{
+    color: #ffffff;
+    text-align: center;
+    font-family: Kufi, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:small;
+
+}
+
+.design h3{
+    color: #ffffff;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:medium;
+
+}

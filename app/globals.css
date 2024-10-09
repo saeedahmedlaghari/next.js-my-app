@@ -1,5 +1,5 @@
 :root {
-  --background: #ffffff;
+  --background: #a73c3c;
   --foreground: #171717;
 }
 
@@ -39,4 +39,19 @@ a {
   html {
     color-scheme: dark;
   }
+}
+.frintpage h1 {
+  color:rgb(235, 11, 11); 
+  font-family: "Broadway", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+  text-underline-position: below;
+  background-color: rgb(255, 255, 255);
+  padding: auto;
+}
+nav {
+    font-size:large;
+  color: rgb(255, 255, 255);
+  background-color: #000000;
+  padding: 5px;
+  font-family: 'AppetitePro', 'Painter PERSONAL USE ONLY', 'Arial Narrow', Arial, sans-serif;
 }
