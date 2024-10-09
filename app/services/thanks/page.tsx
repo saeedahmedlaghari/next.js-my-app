@@ -12,11 +12,11 @@ const Thankspage = () => {
       <br></br>
       <br></br>
 
-      <h1><u>Thank you</u></h1>
+      <h1><u> Thank You Sir </u></h1>
 
-      <h3>Sir Mr. HAMZA ALVI sb,</h3>
+      <h3>Mr. HAMZA ALVI sb,</h3>
 
-      <p>sir for checking my assignment.</p>
+      <p> for checking my assignment.</p>
     </div>
   );
 };
